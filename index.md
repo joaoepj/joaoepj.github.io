@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+O que é computação? 
 
-You can use the [editor on GitHub](https://github.com/joaoepj/joaoepj.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+A palavra computação está na moda, se ouve muito falar em computação em nuvem, computação quântica, mas o que é computação? Como engenheiro de computação há quase 20 anos eu posso dizer que ter uma boa noção do que é computação ou ser especializado em alguma parte da computação é habilidade profissional muito valorizada agora, e te garantir que esse valor vai aumentar e vai se espalhar para muitas outras áreas profissionais no futuro. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Se você está pensando em ingressar nas carreiras de computação ou matemática, este vídeo é pra você. Se você já é um profissional de uma dessas áreas e quer saber de que maneira uma ponte com a outra área pode te ajudar, assista esse vídeo. Se não pretende ser e nem é um profissional dessas áreas, mas quer entender porque a computação vai ser importante pra sua área profissional no futuro e como você pode tirar proveito disso, assista esse vídeo. Se você ainda não sabe qual é a sua vocação profissional ou odeia matemática, assista esse vídeo.  
 
-### Markdown
+A etimologia dessa palavra vem da junção das palavras do latim cum + putare. A primeira traz a ideia de juntos, como um todo, a segunda a ideia de reconhecer, julgar, validar. Assim, computar remete a ideia de validar como um todo, uma sequência de passos usada para resolver um problema. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Quando se diz que um problema é computável, isso significa que existe pelo menos uma sequência de passos capaz entregar o resultado esperado para aquele problema. Nesse sentido, computar é certificar-se de que apresentadas algumas instancias com entradas e saídas para determinado problema, há pelo menos um conjunto de operações que é válido, que é reconhecido (putare) com todas as possíveis (inclusive as não apresentadas) instancias do problema (cum). 
 
-```markdown
-Syntax highlighted code block
+Computação é o processo de determinar se um problema é computável, e ainda determinar qual o melhor computador, e qual a melhor solução para o problema. Os computadores se tornaram tão comuns e são aplicados a problemas tão cotidianos, que a primeira preocupação de quem se dispõe a resolver um problema usando um computador atualmente é: Consigo dar uma solução para este problema? O caminho para responder essa pergunta passa por 2 outras perguntas. A primeira é como se pode pra um computador qual é a solução. A segunda é como pensar matematicamente em uma solução. Respondendo a primeira, você estuda programação. Respondendo a segunda, o vídeo está apenas começando e não queremos assustar ninguém ainda. 
 
-# Header 1
-## Header 2
-### Header 3
+ 
 
-- Bulleted
-- List
+ 
 
-1. Numbered
-2. List
+Computabilidade = o problema computável ou não 
 
-**Bold** and _Italic_ and `Code` text
+Complexidade = o problema é fácil ou dificilmente computável 
 
-[Link](url) and ![Image](src)
-```
+ 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Introdução 
 
-### Jekyll Themes
+Definição de Computação 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joaoepj/joaoepj.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+(1) TEORIA long term process => problem solving automation matemática, mas também antropologia, sociologia. Assim como os robôs automatizam alguns tipos de trabalho físico, a computação automatiza alguns tipos de trabalho mental 
 
-### Support or Contact
+(2) IMPLEMENTAÇÃO física, química, biologia, medicina, direito, economia, meio ambiente 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+(3) SOLUÇÂO sistemas, aplicativos, páginas, bibliotecas, linguagens de programação 
+
+Exemplos de computadores = perto =>Notebooks, SmartPhones, SmartTVs, SmartWatch, Carros 
+
+Longe => Cloud, IoT (sensores), 5G, Quântica 
+
+Matemática 
+
+A matemática se divide em duas partes: Pura e Aplicada. Na escola aprendemos uma pequena parte da matemática pura. Na maior parte do tempo utilizamos uma pequena parte do que é aprendido na escola para contar. Mas nem sempre é fácil contar o que excede a quantidade de dedos ou o que não podemos ver (criação do ábaco). Por isso, os matemáticos desenvolveram uma série de ferramentas para facilitar a vida deles (e a nossa) 
+
+Nesse ponto você deve notar que existe uma grande diferença entre a maneira você usa a matemática no dia a dia e a maneira em que um matemático a usa. Você se preocupa com o resultado de um cálculo de cada vez. Em alguns você precisa somar (ex), em outros dividir (ex), as vezes usar uma equação (ex.: a famosa regra de 3), seja o que for, o que interessa pra você é o resultado. 
+
+5 + 3 =  
+
+[[  [[operando 5 ]]  [[operador + ]]  [[operando 3 ]]   [[igual = ]]  [[resultado  ]]  ]] 
+
+Quando os números são muito grandes você escreve eles um embaixo do outro e passa um traço colocando o sinal da operação a esquerda (é o que os professores chamam de armar a conta) e segue uma receitinha para calcular o resultado.                                                                                                                                                                                                       
+
+Os matemáticos estão muito mais preocupados se as ferramentas que eles criam são confiáveis do que com o resultado de cálculos triviais. As ferramentas complexas são construídas combinando operações matemáticas e propriedades matemáticas básicas. Assim, também é do interesse dos matemáticos que as operações básicas sejam confiáveis. 
+
+5 + 3 = 8 
+
+[[verdadeiro [[afirmação 5 + 3 = 8 ]] ]] 
+
+[[falso [[afirmação 5 + 3 = 9 ]] ]]
