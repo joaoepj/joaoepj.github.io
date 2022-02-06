@@ -20,7 +20,7 @@ Complexidade = o problema é fácil ou dificilmente computável
 
  
 
-Introdução 
+##Introdução
 
 Definição de Computação 
 
@@ -34,7 +34,7 @@ Exemplos de computadores = perto =>Notebooks, SmartPhones, SmartTVs, SmartWatch,
 
 Longe => Cloud, IoT (sensores), 5G, Quântica 
 
-Matemática 
+##Matemática 
 
 A matemática se divide em duas partes: Pura e Aplicada. Na escola aprendemos uma pequena parte da matemática pura. Na maior parte do tempo utilizamos uma pequena parte do que é aprendido na escola para contar. Mas nem sempre é fácil contar o que excede a quantidade de dedos ou o que não podemos ver (criação do ábaco). Por isso, os matemáticos desenvolveram uma série de ferramentas para facilitar a vida deles (e a nossa) 
 
@@ -53,3 +53,7 @@ Os matemáticos estão muito mais preocupados se as ferramentas que eles criam s
 [[verdadeiro [[afirmação 5 + 3 = 8 ]] ]] 
 
 [[falso [[afirmação 5 + 3 = 9 ]] ]]
+
+##Essência
+##Implementação
+##Interação
