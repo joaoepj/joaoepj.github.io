@@ -1,4 +1,4 @@
-#O que é computação? 
+# O que é computação? 
 
 A palavra computação está na moda, se ouve muito falar em computação em nuvem, computação quântica, mas o que é computação? Como engenheiro de computação há quase 20 anos eu posso dizer que ter uma boa noção do que é computação ou ser especializado em alguma parte da computação é habilidade profissional muito valorizada agora, e te garantir que esse valor vai aumentar e vai se espalhar para muitas outras áreas profissionais no futuro. 
 
@@ -20,7 +20,7 @@ Complexidade = o problema é fácil ou dificilmente computável
 
  
 
-##Introdução
+## Introdução
 
 Definição de Computação 
 
@@ -34,15 +34,17 @@ Exemplos de computadores = perto =>Notebooks, SmartPhones, SmartTVs, SmartWatch,
 
 Longe => Cloud, IoT (sensores), 5G, Quântica 
 
-##Matemática 
+## Matemática 
 
 A matemática se divide em duas partes: Pura e Aplicada. Na escola aprendemos uma pequena parte da matemática pura. Na maior parte do tempo utilizamos uma pequena parte do que é aprendido na escola para contar. Mas nem sempre é fácil contar o que excede a quantidade de dedos ou o que não podemos ver (criação do ábaco). Por isso, os matemáticos desenvolveram uma série de ferramentas para facilitar a vida deles (e a nossa) 
 
 Nesse ponto você deve notar que existe uma grande diferença entre a maneira você usa a matemática no dia a dia e a maneira em que um matemático a usa. Você se preocupa com o resultado de um cálculo de cada vez. Em alguns você precisa somar (ex), em outros dividir (ex), as vezes usar uma equação (ex.: a famosa regra de 3), seja o que for, o que interessa pra você é o resultado. 
 
+````
 5 + 3 =  
 
-[[  [[operando 5 ]]  [[operador + ]]  [[operando 3 ]]   [[igual = ]]  [[resultado  ]]  ]] 
+[[  [[operando 5 ]]  [[operador + ]]  [[operando 3 ]]   [[igual = ]]  [[resultado  ]]  ]]
+````
 
 Quando os números são muito grandes você escreve eles um embaixo do outro e passa um traço colocando o sinal da operação a esquerda (é o que os professores chamam de armar a conta) e segue uma receitinha para calcular o resultado.                                                                                                                                                                                                       
 
@@ -54,6 +56,6 @@ Os matemáticos estão muito mais preocupados se as ferramentas que eles criam s
 
 [[falso [[afirmação 5 + 3 = 9 ]] ]]
 
-##Essência
-##Implementação
-##Interação
+## Essência
+## Implementação
+## Interação
