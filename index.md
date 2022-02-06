@@ -1,5 +1,7 @@
 # O que é computação? 
 
+## Introdução
+
 A palavra computação está na moda, se ouve muito falar em computação em nuvem, computação quântica, mas o que é computação? Como engenheiro de computação há quase 20 anos eu posso dizer que ter uma boa noção do que é computação ou ser especializado em alguma parte da computação é habilidade profissional muito valorizada agora, e te garantir que esse valor vai aumentar e vai se espalhar para muitas outras áreas profissionais no futuro. 
 
 Se você está pensando em ingressar nas carreiras de computação ou matemática, este vídeo é pra você. Se você já é um profissional de uma dessas áreas e quer saber de que maneira uma ponte com a outra área pode te ajudar, assista esse vídeo. Se não pretende ser e nem é um profissional dessas áreas, mas quer entender porque a computação vai ser importante pra sua área profissional no futuro e como você pode tirar proveito disso, assista esse vídeo. Se você ainda não sabe qual é a sua vocação profissional ou odeia matemática, assista esse vídeo.  
@@ -20,19 +22,17 @@ Complexidade = o problema é fácil ou dificilmente computável
 
  
 
-## Introdução
+
 
 Definição de Computação 
 
 (1) TEORIA long term process => problem solving automation matemática, mas também antropologia, sociologia. Assim como os robôs automatizam alguns tipos de trabalho físico, a computação automatiza alguns tipos de trabalho mental 
 
-(2) IMPLEMENTAÇÃO física, química, biologia, medicina, direito, economia, meio ambiente 
+ 
 
-(3) SOLUÇÂO sistemas, aplicativos, páginas, bibliotecas, linguagens de programação 
+## Essência
 
-Exemplos de computadores = perto =>Notebooks, SmartPhones, SmartTVs, SmartWatch, Carros 
-
-Longe => Cloud, IoT (sensores), 5G, Quântica 
+Computação é, em essência, um processo que deriva da necessidade de saber do ser humano. Da mesma maneira que construção civil é um processo que deriva da necessidade humana de se abrigar.
 
 ## Matemática 
 
@@ -60,6 +60,18 @@ Os matemáticos estão muito mais preocupados se as ferramentas que eles criam s
 
 [[falso [[afirmação 5 + 3 = 9 ]] ]]
 
-## Essência
+
+
 ## Implementação
+
+(2) IMPLEMENTAÇÃO física, química, biologia 
+
+(3) SOLUÇÂO sistemas, aplicativos, páginas, bibliotecas, linguagens de programação 
+
+Exemplos de computadores = perto =>Notebooks, SmartPhones, SmartTVs, SmartWatch, Carros 
+
+Longe => Cloud, IoT (sensores), 5G, Quântica
+
 ## Interação
+
+antropologia, sociologia, medicina, direito, economia, meio ambiente
