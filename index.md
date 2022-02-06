@@ -1,10 +1,10 @@
-O que é computação? 
+#O que é computação? 
 
 A palavra computação está na moda, se ouve muito falar em computação em nuvem, computação quântica, mas o que é computação? Como engenheiro de computação há quase 20 anos eu posso dizer que ter uma boa noção do que é computação ou ser especializado em alguma parte da computação é habilidade profissional muito valorizada agora, e te garantir que esse valor vai aumentar e vai se espalhar para muitas outras áreas profissionais no futuro. 
 
 Se você está pensando em ingressar nas carreiras de computação ou matemática, este vídeo é pra você. Se você já é um profissional de uma dessas áreas e quer saber de que maneira uma ponte com a outra área pode te ajudar, assista esse vídeo. Se não pretende ser e nem é um profissional dessas áreas, mas quer entender porque a computação vai ser importante pra sua área profissional no futuro e como você pode tirar proveito disso, assista esse vídeo. Se você ainda não sabe qual é a sua vocação profissional ou odeia matemática, assista esse vídeo.  
 
-A etimologia dessa palavra vem da junção das palavras do latim cum + putare. A primeira traz a ideia de juntos, como um todo, a segunda a ideia de reconhecer, julgar, validar. Assim, computar remete a ideia de validar como um todo, uma sequência de passos usada para resolver um problema. 
+A etimologia da palavra **computação** vem da junção das palavras do latim _cum_ + _putare_. A primeira traz a ideia de juntos, como um todo, a segunda a ideia de reconhecer, julgar, validar. Assim, computar remete a ideia de validar como um todo, uma sequência de passos usada para resolver um problema. 
 
 Quando se diz que um problema é computável, isso significa que existe pelo menos uma sequência de passos capaz entregar o resultado esperado para aquele problema. Nesse sentido, computar é certificar-se de que apresentadas algumas instancias com entradas e saídas para determinado problema, há pelo menos um conjunto de operações que é válido, que é reconhecido (putare) com todas as possíveis (inclusive as não apresentadas) instancias do problema (cum). 
 
