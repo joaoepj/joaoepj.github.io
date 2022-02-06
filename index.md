@@ -34,21 +34,23 @@ Definição de Computação
 
 Computação é, em essência, um processo que deriva da necessidade de saber do ser humano. Da mesma maneira que construção civil é um processo que deriva da necessidade humana de se abrigar.
 
-## Matemática 
+### Matemática 
 
 A matemática se divide em duas partes: Pura e Aplicada. Na escola aprendemos uma pequena parte da matemática pura. Na maior parte do tempo utilizamos uma pequena parte do que é aprendido na escola para contar. Mas nem sempre é fácil contar o que excede a quantidade de dedos ou o que não podemos ver (criação do ábaco). Por isso, os matemáticos desenvolveram uma série de ferramentas para facilitar a vida deles (e a nossa) 
 
 Nesse ponto você deve notar que existe uma grande diferença entre a maneira você usa a matemática no dia a dia e a maneira em que um matemático a usa. Você se preocupa com o resultado de um cálculo de cada vez. Em alguns você precisa somar (ex), em outros dividir (ex), as vezes usar uma equação (ex.: a famosa regra de 3), seja o que for, o que interessa pra você é o resultado. 
 
+<p align="center">
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 
 <img src="https://render.githubusercontent.com/render/math?math=A \Rightarrow B">
+ </p>
 
-````
+```
 5 + 3 =  
 
 [[  [[operando 5 ]]  [[operador + ]]  [[operando 3 ]]   [[igual = ]]  [[resultado  ]]  ]]
-````
+```
 
 Quando os números são muito grandes você escreve eles um embaixo do outro e passa um traço colocando o sinal da operação a esquerda (é o que os professores chamam de armar a conta) e segue uma receitinha para calcular o resultado.                                                                                                                                                                                                       
 
