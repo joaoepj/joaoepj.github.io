@@ -32,6 +32,8 @@ Nesse ponto você deve notar que existe uma grande diferença entre a maneira vo
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 
 <img src="https://render.githubusercontent.com/render/math?math=A \Rightarrow B">
+ 
+ <img src="https://render.githubusercontent.com/render/math?math=\llbracket A \Rightarrow B \rrbracket">
  </p>
 
 ```
