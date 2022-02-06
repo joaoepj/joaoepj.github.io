@@ -12,29 +12,17 @@ Quando se diz que um problema é computável, isso significa que existe pelo men
 
 Computação é o processo de determinar se um problema é computável, e ainda determinar qual o melhor computador, e qual a melhor solução para o problema. Os computadores se tornaram tão comuns e são aplicados a problemas tão cotidianos, que a primeira preocupação de quem se dispõe a resolver um problema usando um computador atualmente é: Consigo dar uma solução para este problema? O caminho para responder essa pergunta passa por 2 outras perguntas. A primeira é como se pode pra um computador qual é a solução. A segunda é como pensar matematicamente em uma solução. Respondendo a primeira, você estuda programação. Respondendo a segunda, o vídeo está apenas começando e não queremos assustar ninguém ainda. 
 
- 
-
- 
-
-Computabilidade = o problema computável ou não 
-
-Complexidade = o problema é fácil ou dificilmente computável 
-
- 
-
-
-
-Definição de Computação 
-
-(1) TEORIA long term process => problem solving automation matemática, mas também antropologia, sociologia. Assim como os robôs automatizam alguns tipos de trabalho físico, a computação automatiza alguns tipos de trabalho mental 
-
- 
-
 ## Essência
 
 Computação é, em essência, um processo que deriva da necessidade de saber do ser humano. Da mesma maneira que construção civil é um processo que deriva da necessidade humana de se abrigar.
 
+(1) TEORIA long term process => problem solving automation matemática, mas também antropologia, sociologia. Assim como os robôs automatizam alguns tipos de trabalho físico, a computação automatiza alguns tipos de trabalho mental 
+
+
+
 ### Matemática 
+
+Matema = conhecimenho, aprendizado + Tike/Tikos = relativo à
 
 A matemática se divide em duas partes: Pura e Aplicada. Na escola aprendemos uma pequena parte da matemática pura. Na maior parte do tempo utilizamos uma pequena parte do que é aprendido na escola para contar. Mas nem sempre é fácil contar o que excede a quantidade de dedos ou o que não podemos ver (criação do ábaco). Por isso, os matemáticos desenvolveram uma série de ferramentas para facilitar a vida deles (e a nossa) 
 
@@ -62,11 +50,13 @@ Os matemáticos estão muito mais preocupados se as ferramentas que eles criam s
 
 [[falso [[afirmação 5 + 3 = 9 ]] ]]
 
+Computabilidade = o problema computável ou não 
 
+Complexidade = o problema é fácil ou dificilmente computável
 
 ## Implementação
 
-(2) IMPLEMENTAÇÃO física, química, biologia 
+(2) IMPLEMENTAÇÃO mecânica, física, química, biologia 
 
 (3) SOLUÇÂO sistemas, aplicativos, páginas, bibliotecas, linguagens de programação 
 
