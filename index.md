@@ -1,3 +1,6 @@
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 # O que é computação? 
 
 ## Introdução
@@ -35,6 +38,11 @@ Nesse ponto você deve notar que existe uma grande diferença entre a maneira vo
  
  <img src="https://render.githubusercontent.com/render/math?math=$\llbracket A \Rightarrow B \rrbracket$">
  </p>
+
+<p>
+  When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are
+  \[x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\]
+</p>
 
 ```
 5 + 3 =  
