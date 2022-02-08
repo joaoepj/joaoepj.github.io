@@ -39,6 +39,8 @@ Nesse ponto você deve notar que existe uma grande diferença entre a maneira vo
 \[ \forall x \in C \]
 </p>
 
+<p> \alpha \Rightarrow \beta </p>
+
 <p>
   When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are
   \[x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\]
