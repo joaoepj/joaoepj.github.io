@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A palavra computação está na moda, se ouve muito falar em computação em nuvem, computação quântica, mas o que é computação? Posso dizer que ter uma boa noção do que é computação ou ser especializado em alguma parte da computação é habilidade profissional muito valorizada agora, e te garantir que esse valor vai aumentar e vai se espalhar para muitas outras áreas profissionais no futuro. 
+A palavra computação está na moda, se ouve muito falar em computação em nuvem, computação quântica, mas o que é computação? Posso dizer que ter uma boa noção do que é computação ou ser especializado em alguma parte da computação é uma habilidade profissional muito valorizada agora, e te garantir que esse valor vai aumentar e vai se espalhar para muitas outras áreas profissionais no futuro. 
 
 Se você está pensando em ingressar nas carreiras de computação ou matemática, este vídeo é pra você. Se você já é um profissional de uma dessas áreas e quer saber de que maneira uma ponte com a outra área pode te ajudar, assista esse vídeo. Se não pretende ser e nem é um profissional dessas áreas, mas quer entender porque a computação vai ser importante pra sua área profissional no futuro e como você pode tirar proveito disso, assista esse vídeo. Se você ainda não sabe qual é a sua vocação profissional ou odeia matemática, assista esse vídeo.  
 
