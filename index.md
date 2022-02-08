@@ -35,8 +35,9 @@ A matemática se divide em duas partes: Pura e Aplicada. Na escola aprendemos um
 
 Nesse ponto você deve notar que existe uma grande diferença entre a maneira você usa a matemática no dia a dia e a maneira em que um matemático a usa. Você se preocupa com o resultado de um cálculo de cada vez. Em alguns você precisa somar (ex), em outros dividir (ex), as vezes usar uma equação (ex.: a famosa regra de 3), seja o que for, o que interessa pra você é o resultado. 
 
-
+<p>
 \[ \forall x \in C \]
+</p>
 
 <p>
   When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are
