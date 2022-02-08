@@ -67,7 +67,30 @@ Computabilidade = o problema computável ou não
 
 Complexidade = o problema é fácil ou dificilmente computável
 
+### Um pouco de História
+
+Alan Turing
+O jogo da imitação
+Computable Numbers, with an Application to the Entscheidungsproblem
+
+Alonzo Church
+
+
+Kurt Gödel's
+Teorema da imcompletude
+
+David Hilbert
+Entscheidungsproblem
+Find an algorithm to determine whether a given polynomial Diophantine equation with integer coefficients has an integer solution.
+
+
+
+
+
 ## Implementação
+
+George Leibniz Leibniz wheel
+
 
 (2) IMPLEMENTAÇÃO mecânica, física, química, biologia 
 
