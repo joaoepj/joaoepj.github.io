@@ -22,6 +22,9 @@ Computação é, em essência, um processo que deriva da necessidade de saber do
 
 ### Matemática 
 
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 Matema = conhecimenho, aprendizado + Tike/Tikos = relativo à
 
 A matemática se divide em duas partes: Pura e Aplicada. Na escola aprendemos uma pequena parte da matemática pura. Na maior parte do tempo utilizamos uma pequena parte do que é aprendido na escola para contar. Mas nem sempre é fácil contar o que excede a quantidade de dedos ou o que não podemos ver (criação do ábaco). Por isso, os matemáticos desenvolveram uma série de ferramentas para facilitar a vida deles (e a nossa) 
@@ -35,6 +38,8 @@ Nesse ponto você deve notar que existe uma grande diferença entre a maneira vo
  
  <img src="https://render.githubusercontent.com/render/math?math=$\llbracket A \Rightarrow B \rrbracket$">
  </p>
+
+
 
 <p>
   When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are
