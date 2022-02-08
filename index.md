@@ -14,7 +14,7 @@ Computação é o processo de determinar se um problema é computável, e ainda 
 
 Se você está pensando em ingressar nas carreiras de computação ou matemática, este vídeo é pra você. Se você já é um profissional de uma dessas áreas e quer saber de que maneira uma ponte com a outra área pode te ajudar, assista esse vídeo. Se não pretende ser e nem é um profissional dessas áreas, mas quer entender porque a computação vai ser importante pra sua área profissional no futuro e como você pode tirar proveito disso, assista esse vídeo. Se você ainda não sabe qual é a sua vocação profissional ou odeia matemática, assista esse texto.
 
-Nesse texto eu apresento a computação segundo três aspectos que considero definitivos para entender o que é computação. O primeiro é a essência onde se discute quais são as origens e as motivações da computação
+Nesse texto eu apresento a computação segundo três aspectos que considero importantes para a compreensão do assunto. O primeiro é a essência onde se discute quais são as origens e as motivações da computação. O segundo é a materialização, foram, estão sendo e serão materializadas. O último é interação, que discute como a computação interfere na interação do ser humano com o ambiente e com os outros seres humanos.
 
 ## Essência
 
