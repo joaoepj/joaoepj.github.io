@@ -73,6 +73,9 @@ Complexidade = o problema é fácil ou dificilmente computável
 
 ### Um pouco de História
 
+A Máquina de Turing
+https://turingmachine.io/
+https://turingmachinesimulator.com/
 Alan Turing
 O jogo da imitação
 Computable Numbers, with an Application to the Entscheidungsproblem
