@@ -85,6 +85,8 @@ Teorema da imcompletude
 
 David Hilbert
 Entscheidungsproblem
+https://www.sciencedirect.com/topics/mathematics/entscheidungsproblem
+
 Find an algorithm to determine whether a given polynomial Diophantine equation with integer coefficients has an integer solution.
 
 
