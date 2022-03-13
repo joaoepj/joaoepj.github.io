@@ -1,0 +1,19 @@
+{
+  "name": "joaoepj.github.io",
+  "version": "0.0.1",
+  "description": "João&#39;s personal site",
+  "main": "index.js",
+  "authors": {
+    "name": "João E Pereira Jr",
+    "email": "joaoepj@gmail.com"
+  },
+  "repository": "https://github.com/joaoepj/joaoepj.github.io/joaoepj.github.io",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
