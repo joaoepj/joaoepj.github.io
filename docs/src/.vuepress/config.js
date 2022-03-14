@@ -34,9 +34,21 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
+        text: 'Blockchain',
+        link: '/blockchain/',
+      },
+      {
         text: 'O que é computação',
         link: '/o-que-e-computacao/',
       },
+      {
+        text: 'Linguística',
+        link: '/linguistics/',
+      },
+      {
+        text: 'Matemática',
+        link: '/mathematics/',
+      },            
       {
         text: 'Guide',
         link: '/guide/',
@@ -44,10 +56,6 @@ module.exports = {
       {
         text: 'Config',
         link: '/config/'
-      },
-      {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
       }
     ],
     sidebar: {
