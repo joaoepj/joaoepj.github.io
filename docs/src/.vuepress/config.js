@@ -34,14 +34,6 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Blockchain',
-        link: '/blockchain/',
-      },
-      {
-        text: 'O que é computação',
-        link: '/o-que-e-computacao/',
-      },
-      {
         text: 'Linguística',
         link: '/linguistics/',
       },
@@ -50,13 +42,14 @@ module.exports = {
         link: '/mathematics/',
       },            
       {
-        text: 'Guide',
-        link: '/guide/',
+        text: 'Computação',
+        link: '/o-que-e-computacao/',
       },
       {
-        text: 'Config',
-        link: '/config/'
-      }
+        text: 'Blockchain',
+        link: '/blockchain/',
+      },
+
     ],
     sidebar: {
       '/guide/': [

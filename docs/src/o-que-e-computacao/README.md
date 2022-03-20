@@ -2,9 +2,9 @@
 
 ## Introdução
 
-A palavra computação está na moda, se ouve muito falar em computação em nuvem, computação quântica, mas o que é computação? Posso dizer que ter uma boa noção do que é computação ou ser especializado em alguma parte da computação é uma habilidade profissional muito valorizada agora, e te garantir que esse valor vai aumentar e vai se espalhar para muitas outras áreas profissionais no futuro. 
+A palavra computação está na moda, muito se ouve falar em computação em nuvem, computação quântica, computação gráfica. Mas o que é computação? Ter uma noção do que é computação ou ser especializado em alguma parte da computação é uma habilidade profissional muito valorizada agora, e te garantir que esse valor vai aumentar e vai se espalhar para muitas outras áreas profissionais no futuro. 
 
-A etimologia da palavra **computação** vem da junção das palavras do latim _cum_ + _putare_. A primeira traz a ideia de juntos, como um todo, a segunda a ideia de reconhecer, julgar, validar. Assim, computar remete a ideia de validar que um conjunto de situações pode ser resolvido de certa maneira. Em outras palavras, podemos dizer que computar é estabelecer uma verdade universal.
+A etimologia da palavra **computação** vem da junção das palavras do latim _cum_ + _putare_. A primeira palavra traz a ideia de junto, como um todo, a segunda a ideia de reconhecer, julgar, validar. Assim, computar remete a ideia de validar que um conjunto de situações pode ser resolvido de certa maneira. Em outras palavras, podemos dizer que computar é estabelecer uma verdade universal.
 
 Quando se diz que um problema é computável, isso significa que existe pelo menos uma sequência de passos capaz entregar o resultado esperado para aquele problema. Nesse sentido, computar é certificar-se de que apresentadas algumas instancias com entradas e saídas para determinado problema, há pelo menos um conjunto de operações que é válido, que é reconhecido (putare) com todas as possíveis (inclusive as não apresentadas) instancias do problema (cum). 
 
@@ -26,11 +26,7 @@ Computação é, em essência, um processo que deriva da necessidade de saber do
 
 ### Matemática é uma linguagem 
 
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-<!-- To automatically render math in text elements, include the auto-render extension: -->
-    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.3/dist/contrib/auto-render.min.js" integrity="sha384-+XBljXPPivOzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR" crossorigin="anonymous"       onload="renderMathInElement(document.body);"></script>
 
 Matema = conhecimenho, aprendizado + Tike/Tikos = relativo à
 
@@ -38,22 +34,21 @@ A matemática se divide em duas partes: Pura e Aplicada. Na escola aprendemos um
 
 Nesse ponto você deve notar que existe uma grande diferença entre a maneira você usa a matemática no dia a dia e a maneira em que um matemático a usa. Você se preocupa com o resultado de um cálculo de cada vez. Em alguns você precisa somar (ex), em outros dividir (ex), as vezes usar uma equação (ex.: a famosa regra de 3), seja o que for, o que interessa pra você é o resultado. 
 
-<p>
+
 \[ \forall x \in C \]
-</p>
 
-<p>
+
+
  \[ \alpha \Rightarrow \beta \]
-</p>
 
-<p>
+
   When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are
   \[x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\]
-</p>
 
-<p>
+
+
 $$[\![ 5+3= ]\!]$$
-</p>
+
 ```
 5 + 3 =  
 

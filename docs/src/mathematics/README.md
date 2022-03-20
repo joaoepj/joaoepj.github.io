@@ -1,3 +1,3 @@
-# Methematics
+# Mathematics
 
 Mathema + Tike
