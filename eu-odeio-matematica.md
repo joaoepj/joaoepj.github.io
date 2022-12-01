@@ -14,8 +14,11 @@ Desenvolver uma metáfora entre a matemática e língua portuguesa.
 
 
 Emissor
+
 Receptor
+
 Mensagem
 
 Todos
+
 Existe
