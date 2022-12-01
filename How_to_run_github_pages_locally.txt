@@ -1,0 +1,8 @@
+1. Clone your github pages repo
+2. Run: $ jekyll new <the-name-of-your-repo-folder>
+     to generate Gemfile and Gemfile.lock files inside your repo
+3. Edit Gemfile uncommenting github-pages and commenting jekyll
+4. Add necessary gems (e.g. $ bundle add webrick)
+5. Run: $ bundle exec jekyll serve -l
+6. Edit your mardown files
+7. git add -> commit -> push to your repo

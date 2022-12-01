@@ -1,8 +1,8 @@
-title: Your awesome title
+title: joaoepj.github.io
 theme: jekyll-theme-cayman
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "default"
+#defaults:
+#  -
+#    scope:
+#      path: "" # an empty string here means all files in the project
+#    values:
+#      layout: "default"
