@@ -1,7 +1,8 @@
 1. Clone your github pages repo
-2. Run: $ jekyll new <the-name-of-your-repo-folder>
+2. Run: $ jekyll new --force <the-name-of-your-repo-folder>
      to generate Gemfile and Gemfile.lock files inside your repo
 3. Edit Gemfile uncommenting github-pages and commenting jekyll
+     (check if your file contains this line: gem "github-pages", group: :jekyll_plugins)
 4. Add necessary gems (e.g. $ bundle add webrick)
 5. Run: $ bundle exec jekyll serve -l
 6. Edit your mardown files

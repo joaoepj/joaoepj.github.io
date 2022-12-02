@@ -40,7 +40,7 @@ Nesse ponto você deve notar que existe uma grande diferença entre a maneira vo
 </p>
 
 <p>
- \[ \alpha \Rightarrow \beta \]
+ \[ \alpha \Rightarrow \beta \Omega \]
 </p>
 
 <p>
