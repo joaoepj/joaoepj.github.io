@@ -41,3 +41,5 @@ $$a = 1$$
 <p>
 \[x\]
 </p>
+
+Colocar uma nota de rodapé https://www.etymonline.com/word/universe
