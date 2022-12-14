@@ -1,3 +1,5 @@
+# Um guia para entender melhor a linguagem
+
 Este site é um trabalho em progresso. Você certamente encontrará muitos erros de sintaxe e alguns textos meio confusos. Mas fique a vontade para ler.
 
 Essa é uma breve introdução sobre a linguagem. Nessa introdução apresenta-se a argumentos usando a matemática, a computação, a linguística e a ontologia para te convencer de que a linguagem está presente em todos esses ramos.
