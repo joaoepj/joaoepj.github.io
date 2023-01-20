@@ -12,4 +12,4 @@ Essa é uma breve introdução sobre a linguagem. Nessa introdução apresenta-s
 
 [O que é linguística](./o-que-e-linguistica)
 
-[O que é ontologia](./o-que-e-ontologia)
+[Uma noçao sobre ontologia](./uma-nocao-sobre-ontologia)
