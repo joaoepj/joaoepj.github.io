@@ -1,6 +1,12 @@
-# Um guia para entender melhor a linguagem
+# Uma jornada pela linguagem
 
-Este site é um trabalho em progresso. Você certamente encontrará muitos erros de sintaxe e alguns textos meio confusos. Mas fique a vontade para ler.
+Este site é um trabalho em progresso. Você certamente encontrará muitos erros de sintaxe e alguns textos meio confusos. Mas fique a vontade para ler. Esse texto é uma jornada pela linguagem. Durante essa jornada eu pretendo lhe dar a motivação e mostrar as ferramentas para que voce desenvolva o seu olhar linguístico.
+
+Vivemos em uma época bastante conturbada, tudo se agiganta diante de nossos olhos e nos sentimos incapazes de encontrar um lugar adequado para a nossa pequenez. Ás vezes, nos embriagamos bebendo nos grandes feitos das grandes civilizações, por outras desejamos apenas o agora.
+
+Usamos sem perceber muito da linguagem das antigas civilizações.
+
+É certo que não compreendemos tudo, cada um tem a sua gramática mental (quero ver voce explicar isso, kkk)
 
 Essa é uma breve introdução sobre a linguagem. Nessa introdução apresenta-se a argumentos usando a matemática, a computação, a linguística e a ontologia para te convencer de que a linguagem está presente em todos esses ramos.
 
