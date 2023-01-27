@@ -4,8 +4,15 @@
 
 [comment]: Vivemos em uma época bastante conturbada, tudo se agiganta diante de nossos olhos e nos sentimos incapazes de encontrar um lugar adequado para a nossa pequenez. Ás vezes, nos embriagamos bebendo nos grandes feitos das grandes civilizações, por outras desejamos apenas o agora.
 
-A capacidade de percepção racional e a necessidade de interação social levou os seres humanos a desenvolverem a linguagem. A linguagem é um sistema para descrever a percepção de um indivíduo. Descrições lidam com conceitos como existência, estado e mudança de estado. Nossa capacidade de descrever algo está intimamente ligada à nossa percepção de tempo e espaço. E como argumentos que apoiam essa afirmação eu faço as perguntas seguintes: Pode o ser humano descrever fenomenos que estão além do período maximo de duração da vida humana? Pode uma criança descrever algo que extrapola as atividades do seu cotidiano?
 
+A capacidade de percepção racional e a necessidade de interação social levou os seres humanos a desenvolverem a linguagem. Partindo desse ponto, pode-se entender a linguagem, nâo apenas como um sistema capaz de descrever como o ser humano percebe o universo, mas também como um sistema capaz de colocar os outros seres da espécie a par de sua percepção do universo, bem como de colocá-lo a par da percepção de universo dos seus pares. 
+
+Descrições de universo lidam com conceitos como existência, estado e mudança de estado. Nossa capacidade de descrever algo está intimamente ligada à nossa percepção de tempo e espaço. E como argumentos que apoiam essa afirmação eu faço as perguntas seguintes: Pode o ser humano descrever fenomenos que estão além do período maximo de duração da vida humana? Pode uma criança descrever algo que extrapola as atividades do seu cotidiano?
+
+
+Propriedades da percepção:
+* Tempo
+* Espaço
 
 Usamos sem perceber muito da linguagem das antigas civilizações.
 
