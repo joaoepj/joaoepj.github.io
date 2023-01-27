@@ -1,8 +1,11 @@
 # Uma jornada pela linguagem
 
-Este site é um trabalho em progresso. Você certamente encontrará muitos erros de sintaxe e alguns textos meio confusos. Mas fique a vontade para ler. Esse texto é uma jornada pela linguagem. Durante essa jornada eu pretendo lhe dar a motivação e mostrar as ferramentas para que voce desenvolva o seu olhar linguístico.
+[comment]: Este site é um trabalho em progresso. Você certamente encontrará muitos erros de sintaxe e alguns textos meio confusos. Mas fique a vontade para ler. Esse texto é uma jornada pela linguagem. Durante essa jornada eu pretendo lhe dar a motivação e mostrar as ferramentas para que voce desenvolva o seu olhar linguístico.
 
-Vivemos em uma época bastante conturbada, tudo se agiganta diante de nossos olhos e nos sentimos incapazes de encontrar um lugar adequado para a nossa pequenez. Ás vezes, nos embriagamos bebendo nos grandes feitos das grandes civilizações, por outras desejamos apenas o agora.
+[comment]: Vivemos em uma época bastante conturbada, tudo se agiganta diante de nossos olhos e nos sentimos incapazes de encontrar um lugar adequado para a nossa pequenez. Ás vezes, nos embriagamos bebendo nos grandes feitos das grandes civilizações, por outras desejamos apenas o agora.
+
+A capacidade de percepção racional e a necessidade de interação social levou os seres humanos a desenvolverem a linguagem. A linguagem é um sistema para descrever a percepção de um indivíduo. Descrições lidam com conceitos como existência, estado e mudança de estado. Nossa capacidade de descrever algo está intimamente ligada à nossa percepção de tempo e espaço. E como argumentos que apoiam essa afirmação eu faço as perguntas seguintes: Pode o ser humano descrever fenomenos que estão além do período maximo de duração da vida humana? Pode uma criança descrever algo que extrapola as atividades do seu cotidiano?
+
 
 Usamos sem perceber muito da linguagem das antigas civilizações.
 
