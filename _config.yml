@@ -1,6 +1,7 @@
 title: joaoepj.github.io
 #theme: jekyll-theme-cayman
-remote_theme: rundocs/jekyll-rtd-theme
+theme: jekyll-theme-gitbook
+#remote_theme: rundocs/jekyll-rtd-theme
 #defaults:
 #  -
 #    scope:
